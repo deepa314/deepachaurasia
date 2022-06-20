@@ -40,9 +40,9 @@ Apart from coding , I also do technical writing. You can also check my handwritt
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepachaurasia" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/deepachaurasia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepachaurasia" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://twitter.com/deepachaurasia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepachaurasia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepa-chaurasia-notes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepachaurasia" height="30" width="40" /></a>
+<a href="https://medium.com/@deepachaurasia33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="4214976" height="30" width="40" /></a>
 
 
 
