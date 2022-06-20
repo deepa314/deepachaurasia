@@ -8,10 +8,10 @@ My name is Deepa Chaurasia. I am a Frontend engineer and Technical Writer.
 
 ## &#x270d; Technical Writing and Content Creation
 
-Apart from coding , I also do technical writing. You can check the out on Dev.to and Medium
-I also share my handwritten notes on Javascript,Angular on LinkedIn 
+Apart from coding , I also do technical writing. You can also check my handwritten notes on Javascript,Angular on LinkedIn 
 
-## 🔧 Langueages & Tools
+
+## 🔧 Languages & Tools
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
